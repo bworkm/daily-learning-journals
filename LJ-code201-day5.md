@@ -1,0 +1,7 @@
+#LJ Code 201 - Day 5
+
+##So we started using functions today, although only in their most basic form.  No arguments yet, which means not much code cleanup.  In fact, creating functions from the existing code added several lines.  I think today is the last day for our "about_me" project, but it will be nice to consolidate things once we start using more of the ability of functions.
+
+##I have been playing around with CSS for the past couple days trying to get my "about_me" page to render aesthetically.  I downloaded the 960 grid templates from www.960.gs so I can incorporate them into my page.  Instead of rewriting a bunch of styles, I just linked my page to their CSS files and have been slowly adding the necessary classes to my page.  This way I can still render it using my existing CSS as needed.  This is proving to be cumbersome because I don't yet fully understand all of what these styles are trying to do.  I'll get there.
+
+##Yesterday, my partner and I also ran into an issue with GitHub when we created a fork of one of our repos.  The repo was forked, then another ACP was performed, which meant the fork was now behind by one iteration.  We could have just deleted the repo and re-forked, but we were in a perfect position to understand more about the tool and how to resolve this issue a better way.  Turns out we need to create another remote and point it to the partners' GitHub, pull the content into the local machine, then resolve the merge conflict.  All that's left is a regular ACP, pull request, etc.  Great learning experience.
