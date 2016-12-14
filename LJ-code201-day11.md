@@ -1,0 +1,7 @@
+#LJ Code 201 - Day 11
+
+##So far this week I have not had to focus on CSS as much (thankfully!), but I did dive into an area that I have absolutely no experience in... chart.js.  It is nice to touch on using external libraries to help design a website and expand on the functionality.  Once I realized how to link to the chart.js source, in my case just an external reference in the script tag, the rest seemed to be very simple.  I talked with a few people today who were having some trouble getting their chart to display correctly.  I studied the demo code and read some online articles about it and the structure just kinda made sense.  I would love to expand on this as we progress.
+
+##I have also helped a couple people get their code working in the past few days.  One person said I was a life saver because he wasn't completely understanding what he was doing.  I think that's somewhat the point of this course, but I can also empathize with those who are having trouble.  I like being able to help out where I can.
+
+##I had a different approach to solving the BusMall project than the instructor or TAs had.  Kenny thought it was an interesting idea and couldn't wait to see if it would work out.  The instructor said that he would probably do it a different way and provided a strong backing for his decision.  Still, I pushed on and got it working, wondering the whole time if it's as potentially unstable as suggested.  Either way, it's a working solution with, in my opinion, a less confusing duplication verification method.
